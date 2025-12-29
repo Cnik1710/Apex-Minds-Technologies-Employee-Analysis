@@ -1,4 +1,4 @@
-# Apex-Minds-Technologies-Employee-Analysis
+# Apex Minds Technologies Employee Analysis
 ## 🎯 Objective
 To analyze **employee distribution and performance metrics across departments, experience, and career levels** — and **uncover insights driving salary patterns and workforce structure**.
 ### **Project Purpose:**
