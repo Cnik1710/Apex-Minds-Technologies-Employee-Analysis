@@ -45,7 +45,7 @@ To analyze **employee distribution and performance metrics across departments, e
           * Career Level Hierarchy (Young Talent → Senior Professional)
           * Age Group (19–28, 29–38, 39–48, 49+)
           * Experience Buckets (0–5, 6–10, etc.)
-  * **Calculated Metrics (via DAX):**
+  * **Calculated Metrics:**
       * Average, Median, Min, Max Salary
       * Total Salary Expense by Department, Rating, and Experience
       * Employee Count per Segment
